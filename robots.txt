@@ -1,0 +1,7 @@
+Disallow *
+
+############################
+# ROBOTS can't reach hear  #
+###########################
+
+# Message to Visitor : A new dawn 
